@@ -1,5 +1,5 @@
 ## Hello 👋
-Mercury is a self-hosted Discord instance.
+Mercury is a fan-made project for self-hosted old Discord instance.
 
 ## Mercury Services
 Mercury is recreating following services:
